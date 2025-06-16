@@ -19,7 +19,7 @@
     "": ""
   },
   "marketing": {
-    "introducing": "Introducing Saasfly",
+    "introducing": "Introducing nexOS",
     "title": "Ship your apps to the world easier with ",
     "sub_title": "An easy-to-use and enterprise-grade Next.js boilerplate. Your complete All-in-One solution for building SaaS services.",
     "get_started": "Get Started",
@@ -39,7 +39,7 @@
     "signup": "Sign up",
     "": "",
     "contributors": {
-      "contributors_desc": "contributors made Saasfly stronger",
+      "contributors_desc": "contributors made nexOS stronger",
       "developers_first": "Help more than ",
       "developers_second": " developers"
     },
@@ -73,7 +73,7 @@
     },
     "people_comment": {
       "title": "What People Are Saying",
-      "desc": "Don’t just take our word for it. Here’s what real people are saying about Saasfly."
+      "desc": "Don’t just take our word for it. Here’s what real people are saying about nexOS."
     }
   },
   "login": {

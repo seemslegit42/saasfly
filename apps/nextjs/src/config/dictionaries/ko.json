@@ -19,7 +19,7 @@
     "": ""
   },
   "marketing": {
-    "introducing": "Saasfly 소개",
+    "introducing": "nexOS 소개",
     "title": "다국어 지원으로, 당신의 앱을 전 세계 사용자에게, ",
     "sub_title": "이것 하나로 끝! 사용하기 쉽고 엔터프라이즈급 Next.js 보일러플레이트. SaaS 서비스 구축을 위한 완벽한 솔루션입니다.",
     "get_started": "시작하기",
@@ -39,7 +39,7 @@
     "signup": "가입하기",
     "": "",
     "contributors": {
-      "contributors_desc": "명의 기여자들이 Saasfly를 더 강하게 만들었습니다",
+      "contributors_desc": "명의 기여자들이 nexOS를 더 강하게 만들었습니다",
       "developers_first": "",
       "developers_second": " 명 이상의 개발자들의 성공을 돕습니다"
     },
@@ -73,7 +73,7 @@
     },
     "people_comment": {
       "title": "사람들의 반응을 살펴보세요",
-      "desc": "저희 말만 믿지 마세요. 실제 사용자들이 Saasfly에 대해 어떻게 말하는지 확인해 보세요."
+      "desc": "저희 말만 믿지 마세요. 실제 사용자들이 nexOS에 대해 어떻게 말하는지 확인해 보세요."
     }
   },
   "login": {

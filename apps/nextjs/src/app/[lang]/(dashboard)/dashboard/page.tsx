@@ -1,14 +1,14 @@
 import React from "react";
 import { redirect } from "next/navigation";
 
-import { authOptions, getCurrentUser } from "@saasfly/auth";
+import { authOptions, getCurrentUser } from "@nexos/auth";
 import {
   Table,
   TableCaption,
   TableHead,
   TableHeader,
   TableRow,
-} from "@saasfly/ui/table";
+} from "@nexos/ui/table";
 
 import { EmptyPlaceholder } from "~/components/empty-placeholder";
 import { DashboardHeader } from "~/components/header";

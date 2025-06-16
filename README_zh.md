@@ -1,16 +1,16 @@
 <div align="center" width="100%">
-    <img src="./saasfly-logo.svg" width="128" alt="" />
+    <img src="./nexos-logo.svg" width="128" alt="" />
 </div>
 
-# Saasfly </br>
+# nexOS </br>
 
-[![GitHub Actions工作流状态][check-workflow-badge]][check-workflow-badge-link] [![GitHub许可证][github-license-badge]][github-license-badge-link]  [![Discord][discord-badge]][discord-badge-link] [![Saasfly][made-by-nextify-badge]][made-by-nextify-badge-link]
+[![GitHub Actions工作流状态][check-workflow-badge]][check-workflow-badge-link] [![GitHub许可证][github-license-badge]][github-license-badge-link]  [![Discord][discord-badge]][discord-badge-link] [![nexOS][made-by-nextify-badge]][made-by-nextify-badge-link]
 [![English](https://img.shields.io/badge/-English-grey.svg)](README.md)
 
 
 一个易于使用、企业级的Next.js样板。
 
-您不再需要购买模板; Saasfly提供了一个完整的开源解决方案,用于快速轻松地构建SaaS应用程序。
+您不再需要购买模板; nexOS提供了一个完整的开源解决方案,用于快速轻松地构建SaaS应用程序。
 
 > **[Nextify](https://nextify.ltd)** 提供完整的企业SaaS解决方案。如果您有兴趣讨论您的项目,或者您只是想与我们交谈,请随时与我们联系[contact@nextify.ltd](mailto:contact@nextify.ltd)。
 
@@ -22,15 +22,15 @@
 
 亲自试一试吧!
 
-演示服务器1(位置:美国华盛顿): <https://show.saasfly.io>
+演示服务器1(位置:美国华盛顿): <https://show.nexos.io>
 
-演示服务器2(位置:日本东京): <https://demo.saasfly.io>
+演示服务器2(位置:日本东京): <https://demo.nexos.io>
 
-查看更多文档请访问 <https://document.saasfly.io>
+查看更多文档请访问 <https://document.nexos.io>
 
 ## 🌟 Star历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=saasfly/saasfly&type=Timeline)](https://star-history.com/#saasfly/saasfly&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=nexos/nexos&type=Timeline)](https://star-history.com/#nexos/nexos&Timeline)
 
 ## 赞助商
 
@@ -100,14 +100,14 @@
 1. 使用`bun create`命令(🌟强烈推荐🌟):
 
 ```bash
-bun create saasfly
+bun create nexos
 ```
 
 2. 手动克隆存储库:
 
 ```bash
-git clone https://github.com/saasfly/saasfly.git
-cd saasfly 
+git clone https://github.com/nexos/nexos.git
+cd nexos 
 bun install  
 ```
 
@@ -137,13 +137,13 @@ bun run dev:web
 
 在 2025 年 6 月 1 日之后，我们将使用 Clerk 作为默认的身份验证提供商。
 
-你可以在这里找到 NextAuth 的实现方案 （ https://github.com/saasfly/saasfly/tree/feature-nextauth ）。
+你可以在这里找到 NextAuth 的实现方案 （ https://github.com/nexos/nexos/tree/feature-nextauth ）。
 
 ## 🥺 项目路线图
 
 1. 管理仪表板页面(处于alpha阶段!!!)
     2. 目前仅提供静态页面,我们计划与无头架构CMS集成
-    3. 您可以提供管理员账号,在.env.local中更改**ADMIN_EMAIL="admin@saasfly.io,root@saasfly.io"**,然后访问host:port/admin/dashboard
+    3. 您可以提供管理员账号,在.env.local中更改**ADMIN_EMAIL="admin@nexos.io,root@nexos.io"**,然后访问host:port/admin/dashboard
     4. 基于安全考虑,我们暂时不提供在线演示。
 2. 多语言READEME
 3. TODO
@@ -223,12 +223,12 @@ bun run dev:web
 
 <!-- 徽章和链接 -->
 
-[check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/saasfly/saasfly/ci.yml?label=ci
+[check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/nexos/nexos/ci.yml?label=ci
 [github-license-badge]: https://img.shields.io/badge/License-MIT-green.svg
-[discord-badge]: https://img.shields.io/discord/1204690198382911488?color=7b8dcd&link=https%3A%2F%2Fsaasfly.io%2Fdiscord
+[discord-badge]: https://img.shields.io/discord/1204690198382911488?color=7b8dcd&link=https%3A%2F%2Fnexos.io%2Fdiscord
 [made-by-nextify-badge]: https://img.shields.io/badge/made_by-nextify-blue?color=FF782B&link=https://nextify.ltd/
 
-[check-workflow-badge-link]: https://github.com/saasfly/saasfly/actions/workflows/check.yml
-[github-license-badge-link]: https://github.com/saasfly/saasfly/blob/main/LICENSE
+[check-workflow-badge-link]: https://github.com/nexos/nexos/actions/workflows/check.yml
+[github-license-badge-link]: https://github.com/nexos/nexos/blob/main/LICENSE
 [discord-badge-link]: https://discord.gg/8SwSX43wnD
 [made-by-nextify-badge-link]: https://nextify.ltd

@@ -7,11 +7,11 @@ import { Comments } from "~/components/comments";
 import { FeaturesGrid } from "~/components/features-grid";
 import { RightsideMarketing } from "~/components/rightside-marketing";
 
-import { AnimatedTooltip } from "@saasfly/ui/animated-tooltip";
-import { BackgroundLines } from "@saasfly/ui/background-lines";
-import { Button } from "@saasfly/ui/button";
-import { ColourfulText } from "@saasfly/ui/colorful-text";
-import * as Icons from "@saasfly/ui/icons";
+import { AnimatedTooltip } from "@nexos/ui/animated-tooltip";
+import { BackgroundLines } from "@nexos/ui/background-lines";
+import { Button } from "@nexos/ui/button";
+import { ColourfulText } from "@nexos/ui/colorful-text";
+import * as Icons from "@nexos/ui/icons";
 
 import type { Locale } from "~/config/i18n-config";
 import {VideoScroll} from "~/components/video-scroll";
@@ -89,7 +89,7 @@ export default async function IndexPage({
 
                 <div
                   className="mb-4 mt-6 flex w-full flex-col justify-center space-y-4 sm:flex-row sm:justify-start sm:space-x-8 sm:space-y-0 z-10">
-                  <Link href="https://github.com/saasfly/saasfly" target="_blank">
+                  <Link href="https://github.com/nexos/nexos" target="_blank">
                     <Button
                       className="bg-blue-600 hover:bg-blue-500 text-white rounded-full text-lg px-6 h-12 font-medium">
                       {dict.marketing.get_started}

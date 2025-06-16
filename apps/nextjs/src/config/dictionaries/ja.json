@@ -19,7 +19,7 @@
     "": ""
   },
   "marketing": {
-    "introducing": "Saasfly の紹介",
+    "introducing": "nexOS の紹介",
     "title": "より簡単にあなたのアプリを世界へ、 ",
     "sub_title": "使いやすさが魅力のエンタープライズグレードNext.jsボイラープレート。SaaSサービス構築を完全サポートするオールインワンソリューション。",
     "get_started": "始める",
@@ -39,7 +39,7 @@
     "signup": "サインアップ",
     "": "",
     "contributors": {
-      "contributors_desc": "人の貢献者がSaasflyをより強くした",
+      "contributors_desc": "人の貢献者がnexOSをより強くした",
       "developers_first": "",
       "developers_second": " 人以上の開発者を支え、共に成長"
     },
@@ -73,7 +73,7 @@
     },
     "people_comment": {
       "title": "ユーザーのリアルな声",
-      "desc": "私たちの言うことだけを信じないでください。Saasflyについての実際のユーザーの声をご覧ください。"
+      "desc": "私たちの言うことだけを信じないでください。nexOSについての実際のユーザーの声をご覧ください。"
     }
   },
   "login": {

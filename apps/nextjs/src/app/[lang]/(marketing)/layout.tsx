@@ -1,6 +1,6 @@
 import { Suspense } from "react";
 
-import { getCurrentUser } from "@saasfly/auth";
+import { getCurrentUser } from "@nexos/auth";
 
 import { ModalProvider } from "~/components/modal-provider";
 import { NavBar } from "~/components/navbar";

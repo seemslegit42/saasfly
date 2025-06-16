@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import type { User } from "@saasfly/auth";
+import type { User } from "@nexos/auth";
 import { useClerk } from "@clerk/nextjs";
 
 import {
@@ -10,7 +10,7 @@ import {
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@saasfly/ui/dropdown-menu";
+} from "@nexos/ui/dropdown-menu";
 
 import { UserAvatar } from "~/components/user-avatar";
 

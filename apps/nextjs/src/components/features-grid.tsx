@@ -1,5 +1,5 @@
-import { Card } from "@saasfly/ui/card"
-import * as Icons from "@saasfly/ui/icons";
+import { Card } from "@nexos/ui/card"
+import * as Icons from "@nexos/ui/icons";
 
 export function FeaturesGrid({ dict } : { dict: Record<string, string> | undefined }) {
   return (

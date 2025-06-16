@@ -2,8 +2,8 @@
 
 import Link from "next/link";
 
-import { cn } from "@saasfly/ui";
-import { buttonVariants } from "@saasfly/ui/button";
+import { cn } from "@nexos/ui";
+import { buttonVariants } from "@nexos/ui/button";
 
 export function SubscriptionForm(props: {
   hasSubscription: boolean;

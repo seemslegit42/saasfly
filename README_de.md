@@ -1,17 +1,17 @@
 Hier ist die überarbeitete Version der deutschen Übersetzung mit optimierter Grammatik und Rechtschreibung:
 
 <div align="center" width="100%">
-    <img src="./saasfly-logo.svg" width="128" alt="" />
+    <img src="./nexos-logo.svg" width="128" alt="" />
 </div>
 
-# Saasfly </br>
+# nexOS </br>
 
-[![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link]  [![Discord][discord-badge]][discord-badge-link] [![Saasfly][made-by-nextify-badge]][made-by-nextify-badge-link]
+[![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link]  [![Discord][discord-badge]][discord-badge-link] [![nexOS][made-by-nextify-badge]][made-by-nextify-badge-link]
 [![English](https://img.shields.io/badge/-English-grey.svg)](README.md)
 
 Eine einfach zu verwendende und unternehmenstaugliche Next.js-Vorlage.
 
-Sie müssen keine Vorlagen mehr kaufen; Saasfly bietet eine vollständige Open-Source-Lösung zum schnellen und einfachen Erstellen von SaaS-Anwendungen.
+Sie müssen keine Vorlagen mehr kaufen; nexOS bietet eine vollständige Open-Source-Lösung zum schnellen und einfachen Erstellen von SaaS-Anwendungen.
 
 > **[Nextify](https://nextify.ltd)** bietet eine komplette Enterprise-SaaS-Lösung an. Kontaktieren Sie uns unter [contact@nextify.ltd](mailto:contact@nextify.ltd), wenn Sie Interesse an einer Besprechung Ihres Projekts haben oder wenn Sie einfach ein Gespräch mit uns führen möchten. Zögern Sie bitte nicht, uns zu kontaktieren.
 
@@ -23,15 +23,15 @@ Sie müssen keine Vorlagen mehr kaufen; Saasfly bietet eine vollständige Open-S
 
 Probieren Sie es selbst aus!
 
-Demo-Server 1 (Standort: Washington, USA): <https://show.saasfly.io>
+Demo-Server 1 (Standort: Washington, USA): <https://show.nexos.io>
 
-Demo-Server 2 (Standort: Tokio, Japan): <https://demo.saasfly.io>
+Demo-Server 2 (Standort: Tokio, Japan): <https://demo.nexos.io>
 
-Weitere Dokumentation finden Sie unter <https://document.saasfly.io>.
+Weitere Dokumentation finden Sie unter <https://document.nexos.io>.
 
 ## 🌟 Stern-Verlauf
 
-[![Star History Chart](https://api.star-history.com/svg?repos=saasfly/saasfly&type=Timeline)](https://star-history.com/#saasfly/saasfly&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=nexos/nexos&type=Timeline)](https://star-history.com/#nexos/nexos&Timeline)
 
 ## 🚀 Erste Schritte
 
@@ -73,14 +73,14 @@ Für den Einstieg mit dieser Vorlage bieten wir zwei Möglichkeiten an:
 1. Verwenden Sie den Befehl `bun create` (🌟dringend empfohlen🌟):
 
 ```bash
-bun create saasfly 
+bun create nexos 
 ```
 
 2. Klonen Sie das Repository manuell:
 
 ```bash
-git clone https://github.com/saasfly/saasfly.git
-cd saasfly
+git clone https://github.com/nexos/nexos.git
+cd nexos
 bun install
 ```
 
@@ -111,13 +111,13 @@ bun run dev:web
 
 Nach dem 1. Juni 2025 verwenden wir Clerk als standardmäßigen Authentifizierungsanbieter.
 
-Hier finden Sie die NextAuth Implementierung ( https://github.com/saasfly/saasfly/tree/feature-nextauth ).
+Hier finden Sie die NextAuth Implementierung ( https://github.com/nexos/nexos/tree/feature-nextauth ).
 
 ## 🥺 Projekt-Roadmap
 
 1. Admin-Dashboard-Seite (in Alpha!!!)
    2. Derzeit ist nur eine statische Seite verfügbar, die Integration mit der Headless-Architektur ist geplant
-   3. Sie können Ihr Admin-Konto angeben, indem Sie **ADMIN_EMAIL="admin@saasfly.io,root@saasfly.io"** in .env.local ändern und auf host:port/admin/dashboard zugreifen
+   3. Sie können Ihr Admin-Konto angeben, indem Sie **ADMIN_EMAIL="admin@nexos.io,root@nexos.io"** in .env.local ändern und auf host:port/admin/dashboard zugreifen
    4. Aus Sicherheitsgründen werden wir vorerst keine Online-Demos bereitstellen.
 2. Mehrsprachige README-Dateien
 3. TODO
@@ -197,12 +197,12 @@ Dieses Projekt wurde von shadcns [Taxonomy](https://github.com/shadcn-ui/taxonom
 
 <!-- Badges and links -->
 
-[check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/saasfly/saasfly/ci.yml?label=ci
+[check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/nexos/nexos/ci.yml?label=ci
 [github-license-badge]: https://img.shields.io/badge/License-MIT-green.svg
-[discord-badge]: https://img.shields.io/discord/1204690198382911488?color=7b8dcd&link=https%3A%2F%2Fsaasfly.io%2Fdiscord
+[discord-badge]: https://img.shields.io/discord/1204690198382911488?color=7b8dcd&link=https%3A%2F%2Fnexos.io%2Fdiscord
 [made-by-nextify-badge]: https://img.shields.io/badge/made_by-nextify-blue?color=FF782B&link=https://nextify.ltd/
 
-[check-workflow-badge-link]: https://github.com/saasfly/saasfly/actions/workflows/check.yml
-[github-license-badge-link]: https://github.com/saasfly/saasfly/blob/main/LICENSE
+[check-workflow-badge-link]: https://github.com/nexos/nexos/actions/workflows/check.yml
+[github-license-badge-link]: https://github.com/nexos/nexos/blob/main/LICENSE
 [discord-badge-link]: https://discord.gg/8SwSX43wnD
 [made-by-nextify-badge-link]: https://nextify.ltd

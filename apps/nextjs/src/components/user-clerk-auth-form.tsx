@@ -4,7 +4,7 @@ import * as React from "react";
 import { redirect } from "next/navigation";
 import { SignIn, useUser } from "@clerk/nextjs";
 
-import { cn } from "@saasfly/ui";
+import { cn } from "@nexos/ui";
 
 type Dictionary = Record<string, string>;
 

@@ -4,8 +4,8 @@ import React, { useState } from "react";
 import Image from "next/image";
 import { signIn } from "next-auth/react";
 
-import { Button } from "@saasfly/ui/button";
-import * as Icons from "@saasfly/ui/icons";
+import { Button } from "@nexos/ui/button";
+import * as Icons from "@nexos/ui/icons";
 
 import { Modal } from "~/components/modal";
 import { siteConfig } from "~/config/site";

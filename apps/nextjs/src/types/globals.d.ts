@@ -1,4 +1,4 @@
-import type { User } from "@saasfly/auth"
+import type { User } from "@nexos/auth"
 
 export {}
 

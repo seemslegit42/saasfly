@@ -1,9 +1,9 @@
 export const siteConfig = {
-  name: "Saasfly",
-  description: "We provide an easier way to build saas service in production",
-  url: "https://github.com/saasfly/saasfly",
+  name: "nexOS",
+  description: "We provide an easier way to build nexos service in production",
+  url: "https://github.com/nexos/nexos",
   ogImage: "",
   links: {
-    github: "https://github.com/saasfly/saasfly",
+    github: "https://github.com/nexos/nexos",
   },
 };

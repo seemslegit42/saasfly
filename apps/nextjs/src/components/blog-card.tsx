@@ -1,4 +1,4 @@
-import { FollowerPointerCard } from "@saasfly/ui/following-pointer";
+import { FollowerPointerCard } from "@nexos/ui/following-pointer";
 
 export function XBlogArticle() {
   return (

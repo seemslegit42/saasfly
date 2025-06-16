@@ -3,12 +3,12 @@
 import * as React from "react";
 import { useRouter } from "next/navigation";
 import { zodResolver } from "@hookform/resolvers/zod";
-import type { User } from "@saasfly/auth";
+import type { User } from "@nexos/auth";
 import { useForm } from "react-hook-form";
 import type * as z from "zod";
 
-import { cn } from "@saasfly/ui";
-import { buttonVariants } from "@saasfly/ui/button";
+import { cn } from "@nexos/ui";
+import { buttonVariants } from "@nexos/ui/button";
 import {
   Card,
   CardContent,
@@ -16,11 +16,11 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "@saasfly/ui/card";
-import * as Icons from "@saasfly/ui/icons";
-import { Input } from "@saasfly/ui/input";
-import { Label } from "@saasfly/ui/label";
-import { toast } from "@saasfly/ui/use-toast";
+} from "@nexos/ui/card";
+import * as Icons from "@nexos/ui/icons";
+import { Input } from "@nexos/ui/input";
+import { Label } from "@nexos/ui/label";
+import { toast } from "@nexos/ui/use-toast";
 
 import { userNameSchema } from "~/lib/validations/user";
 import { trpc } from "~/trpc/client";

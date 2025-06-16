@@ -3,14 +3,14 @@
 import * as React from "react";
 import { useTheme } from "next-themes";
 
-import { Button } from "@saasfly/ui/button";
+import { Button } from "@nexos/ui/button";
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "@saasfly/ui/dropdown-menu";
-import * as Icons from "@saasfly/ui/icons";
+} from "@nexos/ui/dropdown-menu";
+import * as Icons from "@nexos/ui/icons";
 
 export function ModeToggle() {
   const { setTheme } = useTheme();

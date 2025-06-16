@@ -1,6 +1,6 @@
 "use client";
 
-import { TextGenerateEffect } from "@saasfly/ui/typewriter-effect";
+import { TextGenerateEffect } from "@nexos/ui/typewriter-effect";
 
 export function TypewriterEffectSmooths() {
   const words = [

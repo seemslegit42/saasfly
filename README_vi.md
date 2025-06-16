@@ -1,15 +1,15 @@
 <div align="center" width="100%">
-    <img src="./saasfly-logo.svg" width="128" alt="" />
+    <img src="./nexos-logo.svg" width="128" alt="" />
 </div>
 
-# Saasfly </br>
+# nexOS </br>
 
-[![Trạng thái quy trình làm việc GitHub Actions][check-workflow-badge]][check-workflow-badge-link] [![Giấy phép GitHub][github-license-badge]][github-license-badge-link]  [![Discord][discord-badge]][discord-badge-link] [![Saasfly][made-by-nextify-badge]][made-by-nextify-badge-link]
+[![Trạng thái quy trình làm việc GitHub Actions][check-workflow-badge]][check-workflow-badge-link] [![Giấy phép GitHub][github-license-badge]][github-license-badge-link]  [![Discord][discord-badge]][discord-badge-link] [![nexOS][made-by-nextify-badge]][made-by-nextify-badge-link]
 [![English](https://img.shields.io/badge/-English-grey.svg)](README.md)
 
 Một boilerplate Next.js dễ sử dụng, cấp doanh nghiệp.
 
-Bạn không cần phải mua mẫu nữa; Saasfly cung cấp một giải pháp nguồn mở hoàn chỉnh để xây dựng các ứng dụng SaaS một cách nhanh chóng và dễ dàng.
+Bạn không cần phải mua mẫu nữa; nexOS cung cấp một giải pháp nguồn mở hoàn chỉnh để xây dựng các ứng dụng SaaS một cách nhanh chóng và dễ dàng.
 
 > **[Nextify](https://nextify.ltd)** cung cấp giải pháp SaaS doanh nghiệp toàn diện. Nếu bạn quan tâm đến việc thảo luận về dự án của mình hoặc chỉ muốn trò chuyện với chúng tôi, vui lòng liên hệ với chúng tôi tại [contact@nextify.ltd] (mailto:contact@nextify.ltd).
 
@@ -21,15 +21,15 @@ Bạn không cần phải mua mẫu nữa; Saasfly cung cấp một giải pháp
 
 Tự mình thử nó!
 
-Máy chủ demo 1 (Địa điểm: Washington, Hoa Kỳ): <https://show.saasfly.io>
+Máy chủ demo 1 (Địa điểm: Washington, Hoa Kỳ): <https://show.nexos.io>
 
-Máy chủ demo 2 (Địa điểm: Tokyo, Nhật Bản): <https://demo.saasfly.io>
+Máy chủ demo 2 (Địa điểm: Tokyo, Nhật Bản): <https://demo.nexos.io>
 
-Để xem thêm tài liệu, hãy truy cập <https://document.saasfly.io>
+Để xem thêm tài liệu, hãy truy cập <https://document.nexos.io>
 
 ## 🌟 Lịch sử Star
 
-[![Biểu đồ lịch sử Star](https://api.star-history.com/svg?repos=saasfly/saasfly&type=Timeline)](https://star-history.com/#saasfly/saasfly&Timeline)
+[![Biểu đồ lịch sử Star](https://api.star-history.com/svg?repos=nexos/nexos&type=Timeline)](https://star-history.com/#nexos/nexos&Timeline)
 
 ## 🚀 Bắt đầu
 
@@ -71,14 +71,14 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các thành 
 1. Sử dụng lệnh `bun create` (🌟Khuyến nghị cao🌟):
 
 ```bash
-bun create saasfly
+bun create nexos
 ```
 
 2. Tự sao chép kho lưu trữ:
 
 ```bash
-git clone https://github.com/saasfly/saasfly.git
-cd saasfly 
+git clone https://github.com/nexos/nexos.git
+cd nexos 
 bun install  
 ```
 
@@ -109,13 +109,13 @@ bun run dev:web
 
 Chúng tôi sẽ sử dụng Clerk như nhà cung cấp xác thực mặc định kể từ ngày 1 tháng 6 năm 2025.
 
-Bạn có thể tìm thấy mã triển khai NextAuth ở đây ( https://github.com/saasfly/saasfly/tree/feature-nextauth ).
+Bạn có thể tìm thấy mã triển khai NextAuth ở đây ( https://github.com/nexos/nexos/tree/feature-nextauth ).
 
 ## 🥺 Lộ trình dự án
 
 1. Trang tổng quan quản trị (vẫn đang trong giai đoạn alpha!!!)
     2. Hiện tại chỉ cung cấp các trang tĩnh, chúng tôi có kế hoạch tích hợp với CMS kiến trúc headless
-    3. Bạn có thể cung cấp một tài khoản quản trị viên, thay đổi **ADMIN_EMAIL="admin@saasfly.io,root@saasfly.io"** trong .env.local, sau đó truy cập host:port/admin/dashboard
+    3. Bạn có thể cung cấp một tài khoản quản trị viên, thay đổi **ADMIN_EMAIL="admin@nexos.io,root@nexos.io"** trong .env.local, sau đó truy cập host:port/admin/dashboard
     4. Vì lý do bảo mật, chúng tôi tạm thời không cung cấp demo trực tuyến.
 2. Nhiều ngôn ngữ READEME
 3. TODO
@@ -195,12 +195,12 @@ Dự án này lấy cảm hứng từ [Taxonomy](https://github.com/shadcn-ui/ta
 
 <!-- Huy hiệu và liên kết -->
 
-[check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/saasfly/saasfly/ci.yml?label=ci
+[check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/nexos/nexos/ci.yml?label=ci
 [github-license-badge]: https://img.shields.io/badge/License-MIT-green.svg
-[discord-badge]: https://img.shields.io/discord/1204690198382911488?color=7b8dcd&link=https%3A%2F%2Fsaasfly.io%2Fdiscord
+[discord-badge]: https://img.shields.io/discord/1204690198382911488?color=7b8dcd&link=https%3A%2F%2Fnexos.io%2Fdiscord
 [made-by-nextify-badge]: https://img.shields.io/badge/made_by-nextify-blue?color=FF782B&link=https://nextify.ltd/
 
-[check-workflow-badge-link]: https://github.com/saasfly/saasfly/actions/workflows/check.yml
-[github-license-badge-link]: https://github.com/saasfly/saasfly/blob/main/LICENSE
+[check-workflow-badge-link]: https://github.com/nexos/nexos/actions/workflows/check.yml
+[github-license-badge-link]: https://github.com/nexos/nexos/blob/main/LICENSE
 [discord-badge-link]: https://discord.gg/8SwSX43wnD
 [made-by-nextify-badge-link]: https://nextify.ltd

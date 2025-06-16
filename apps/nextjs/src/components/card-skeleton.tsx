@@ -1,5 +1,5 @@
-import { Card, CardContent, CardFooter, CardHeader } from "@saasfly/ui/card";
-import { Skeleton } from "@saasfly/ui/skeleton";
+import { Card, CardContent, CardFooter, CardHeader } from "@nexos/ui/card";
+import { Skeleton } from "@nexos/ui/skeleton";
 
 export function CardSkeleton() {
   return (
